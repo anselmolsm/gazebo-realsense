@@ -1,3 +1,6 @@
+NOTICE: This code was extracted from github.com/01org/collision-avoidance-library and
+is currently under refactoring.
+
 # Gazebo RealSense Plugin #
 
 A RealSense Camera Gazebo plugin.
